@@ -11,14 +11,14 @@ Construção de um site para envio de email's utilizando Bootstrap 4 e PHP.
 
 >Figura 1: Envio de email
 
-![Envio de email](imagens/Enviar_email.png)
+![Envio de email](Imagens/Enviar_email.png)
 
  
 >Figura 2: Feedback de envio com sucesso
 
-![Feedback de envio com sucesso](imagens/Envio_sucesso.png)
+![Feedback de envio com sucesso](Imagens/Envio_sucesso.png)
 
 >Figura 3: Feedback de envio com erro
 
-![Feedback de envio com erro](imagens/Envio_erro.png)
+![Feedback de envio com erro](Imagens/Envio_erro.png)
 
